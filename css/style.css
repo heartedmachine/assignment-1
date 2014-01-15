@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color: #320318;
+}
+
+.content{
+	margin-top: 60px;
+	overflow: hidden;
+	width: 55%;
+	background-color: #941751;
+	-moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    border-radius: 20px;
+	margin-left: auto;
+    margin-right: auto;
+	padding-right: 60px;
+}
+p{
+	color: #fff;
+	padding: 35px;
+	margin: 25px;
+	font-size: 25px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+
+}
+
+.bqstart {
+    float: left;
+	font-size: 700%;
+	font-family: Arial;
+	margin-top: -55px;
+	color: #b82d5d;
+ }
+
+.bqend {
+	float: right;
+	font-size: 700%;
+	font-family: Arial;
+	margin-top: -17px;
+	margin-right: -70px;
+	color: #b82d5d;
+ }
+ 
+ cite{
+	 color: #f4a3c0;
+	 float: right;
+	 font-size: 24px;
+	 font-family: Arial, Helvetica, sans-serif;
+	 font-style: normal;
+ }
